@@ -7,7 +7,7 @@
     <groupId>com.aaomidi.ciphers</groupId>
     <artifactId>vigenere-cipher</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>Simple Substitution Cipher</name>
+    <name>Vigenere Cipher</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
